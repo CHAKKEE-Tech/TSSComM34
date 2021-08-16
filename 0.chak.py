@@ -22,7 +22,8 @@ number = 16
 friend = ""
 friend_gender = ""
 for j in range(number):
-    if j>=7 and j < 13
+    if j>=7 and j < 13:
+        print(j)
 
 
 
